@@ -1,7 +1,5 @@
-# solutions_acmp
 # Solutions for ACMP Problems
-
-This folder contains my solutions for problems from the ACMP (Advanced Competitive Programming Moscow) platform.
+This folder contains my solutions for problems from the ACMP (Advanced Competitive Programming ) platform.
 
 ## About
 
